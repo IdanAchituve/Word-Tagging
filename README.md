@@ -1,1 +1,1 @@
-Window based POS and NER tagging of words using Neural Network
+Window based POS and NER tagging of words using Dynet framwork for Neural Network
